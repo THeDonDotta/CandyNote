@@ -1,0 +1,2 @@
+# CandyNote
+Note appilcation
